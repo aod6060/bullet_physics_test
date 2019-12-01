@@ -6,27 +6,27 @@ are rigid bodies. Its a pretty forward demonstration. Below are the
 keyboard/mouse button mappings
 
 Keys/Mouse Button Mappings
-Escape 				~ Will exit the program.
-Q 					~ Reset the Rigid Body objects.
-W 					~ Move the player forward.
-S 					~ Move the player backwords.
-A 					~ Strafe the player left.
-D 					~ Strafe the player right.
-Space 				~ Make the player jump and make the player fly if held down.
-Left Mouse Button 	~ Left Click will launch left mouse click mode
-	Mode 1 				~ Ray Push Mode
-	Mode 2 				~ Ray Pull Mode
-	Mode 3 				~ Mass Push Mode
-	Mode 4 				~ Mass Pull Mode
-	Mode 5 				~ Grab Rigid Body Mode
-Right Click Buton	~ If in Mode 5 the Rigid Body is launched
-1					~ Will enable Mode 1
-2					~ Will enable Mode 2
-3					~ Will enable Mode 3
-4					~ Will enable Mode 4
-5					~ Will enable Mode 5
-F1					~ Enable Debug Line Mode
-F2					~ Will toggle between Filled, Line, and Point poly modes
+* Escape 				~ Will exit the program.
+* Q 					~ Reset the Rigid Body objects.
+* W 					~ Move the player forward.
+* S 					~ Move the player backwords.
+* A 					~ Strafe the player left.
+* D 					~ Strafe the player right.
+* Space 				~ Make the player jump and make the player fly if held down.
+* Left Mouse Button 	~ Left Click will launch left mouse click mode
+	* Mode 1 				~ Ray Push Mode
+	* Mode 2 				~ Ray Pull Mode
+	* Mode 3 				~ Mass Push Mode
+	* Mode 4 				~ Mass Pull Mode
+	* Mode 5 				~ Grab Rigid Body Mode
+* Right Click Buton	~ If in Mode 5 the Rigid Body is launched
+* 1					~ Will enable Mode 1
+* 2					~ Will enable Mode 2
+* 3					~ Will enable Mode 3
+* 4					~ Will enable Mode 4
+* 5					~ Will enable Mode 5
+* F1					~ Enable Debug Line Mode
+* F2					~ Will toggle between Filled, Line, and Point poly modes
 
 
 License
